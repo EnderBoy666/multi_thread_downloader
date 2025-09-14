@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-###直接打开multi_thread_downloader.py就行，或者：
+### 直接打开multi_thread_downloader.py就行，或者：
 
 ### 命令行参数
 
@@ -81,7 +81,3 @@ python multi_thread_downloader.py -u URL [选项]
    也被相应更新
 
 **注意：** 设置过高的线程数可能会导致系统资源耗尽或被服务器拒绝连接，请谨慎调整。
-
-## 许可证
-
-MIT
